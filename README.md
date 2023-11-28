@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/stars/Fer3on07/Farlight84-Simple-EAC-Bypass)
+![](https://img.shields.io/github/forks/Fer3on07/Farlight84-Simple-EAC-Bypass)
+
 # Farlight84 Simple EAC Bypass
 
 **Detected: EAC has started sending/receiving packets and if it returns null or 0, EAC will try many times at different times and eventually you will be banned.**
