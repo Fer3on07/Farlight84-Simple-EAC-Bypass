@@ -5,7 +5,7 @@
 
 **Detected: EAC has started sending/receiving packets and if it returns null or 0, EAC will try many times at different times and eventually you will be banned.**
 
-[[Release] Farlight84 Simple EAC Bypass]([docs/CONTRIBUTING.md](https://www.unknowncheats.me/forum/other-fps-games/585130-farlight84-simple-eac-bypass.html))
+[[Release] Farlight84 Simple EAC Bypass]((https://www.unknowncheats.me/forum/other-fps-games/585130-farlight84-simple-eac-bypass.html))
 
 It's simple and **based on UC member idea**, I forgot the name 
 Simple way: Editing the json file before anti-cheat opened then return the default values after EAC down.
